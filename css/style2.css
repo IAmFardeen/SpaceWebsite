@@ -1,0 +1,100 @@
+body {
+    background-image: url("../assets/destination/background-destination-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.headers {
+    padding: 60px;
+    position: absolute;
+    right: 0%;
+    margin-top: 30px;
+    background-image: linear-gradient(to right, rgb(19, 21, 34), rgb(24, 37, 69));
+    margin-right: 0%
+}
+
+.marsheaders {
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 50px;
+    color: #ffffff;
+}
+
+.marsheaders:hover {
+    border-bottom: solid 2px;
+    padding-bottom: 60px;
+}
+
+.Pdestination {
+    color: #ffffff;
+    font-size: 2rem;
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 12%;
+}
+
+.Pchoices {
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 65%;
+
+}
+
+.planetchoices {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+
+.planetchoices:hover {
+    border-bottom: solid 1px;
+    padding-bottom: 10px;
+}
+
+.marsimage {
+    margin-top: 26%;
+    margin-left: 22%;
+    width: 25%;
+}
+
+.mars {
+    text-align: right;
+    color: #ffffff;
+    font-size: 5rem;
+    padding-right: 18%;
+    position: relative;
+    top: -429px;
+}
+
+.lastpara {
+    color: #ffffff;
+    position: absolute;
+    right: 10%;
+    top: 63%;
+}
+
+.hr {
+    position: relative;
+    margin-top: 60px;
+}
+
+.lastcontainer {
+    color: #ffffff;
+    display: flex;
+    position: absolute;
+    right: 14%;
+    bottom: 0%;
+
+}
+
+.container {
+    margin-left: 30px;
+}
+
+.cont2 {
+    font-size: 2rem;
+    
+}
